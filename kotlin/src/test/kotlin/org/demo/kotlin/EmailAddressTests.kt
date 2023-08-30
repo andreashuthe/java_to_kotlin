@@ -3,7 +3,6 @@ package org.demo.kotlin
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertFails
-import kotlin.test.fail
 
 class EmailAddressTests {
     @Test
